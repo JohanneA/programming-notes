@@ -28,7 +28,7 @@ inside callback functions.
 
 To solve this, use async.js or Promises to void nesting asynchronous calls.
 
-## [24. Asynchronous programming (background)](http://exploringjs.com/es6/ch_async.html#ch_async)
+## [Asynchronous programming (background)](http://exploringjs.com/es6/ch_async.html#ch_async)
 
 There are two common patterns for receiving results asynchronously, *events* and *callbacks*
 
@@ -125,5 +125,3 @@ A promise has one of three states
 So a promise is *settled* once it is either fulfilled or rejected and it cannot be
 settled again.
 Chaining promises won't starve other tasks of processing time.
-
-## [Asynchronous programming and continuation-passing style in JavaScript](http://2ality.com/2012/06/continuation-passing-style.html)
