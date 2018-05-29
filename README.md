@@ -14,3 +14,7 @@ A collection of all the notes I take as I'm learning different languages
 * Function expression
 * Hoisting
 * Immediately Invoked Function Expression
+
+[Test Driven Development](https://github.com/JohanneA/programming-notes/blob/master/test-driven-development.md)
+* Basic principles
+* Testing patterns
