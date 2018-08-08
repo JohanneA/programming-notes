@@ -122,6 +122,5 @@ A promise has one of three states
 2. *Fulfilled:* The result was computed successfully.
 3. *Rejected:* A failure occurred during computation.
 
-So a promise is *settled* once it is either fulfilled or rejected and it cannot be
-settled again.
+So a promise is *settled* once it is either fulfilled or rejected and it cannot be settled again.
 Chaining promises won't starve other tasks of processing time.
